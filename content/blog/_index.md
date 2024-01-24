@@ -1,19 +1,20 @@
 ---
-title: "Blog"
-description: ""
-summary: ""
+title: Blog
+description: xxxxx
+summary: ''
 date: 2023-09-07T16:21:44+02:00
 lastmod: 2023-09-07T16:21:44+02:00
-draft: false
+draft: true
 weight: 50
 categories: []
 tags: []
 contributors: []
-pinned: false
-homepage: false
+pinned: true
+homepage: true
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: xx
+  description: xx
+  canonical: ''
+  noindex: false
 ---
+![](/uploads/a031035-r1-00-1.jpg){{< param "" >}}
