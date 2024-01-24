@@ -13,3 +13,8 @@ seo:
  canonical: ''
  noindex: false
 ---
+![](/uploads/screenshot-2023-12-05-at-11-49-45-am.png)
+
+{{< figure src="/uploads/animation-llpzk9x4-small.gif" >}}
+
+sjfhsdfhsdjfh

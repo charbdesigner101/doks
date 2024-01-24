@@ -36,8 +36,13 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+collection_groups:
+  - heading: My group
+    collections:
+      - Key
 _inputs: {}
 _select_data: {}
 _structures: {}
 _editables: {}
+data_config: {}
 timezone: Etc/UTC
